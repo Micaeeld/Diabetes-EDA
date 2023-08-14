@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Exploratory Data Analysis and Regression of the Diabetes Dataset
 
 This notebook aims to perform an exploratory data analysis and a regression on the diabetes dataset provided by Kaggle. The dataset contains information on the prevalence of diabetes in different countries, age-standardised. Regression will be performed to determine which factors are most closely related to the prevalence of diabetes.
